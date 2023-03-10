@@ -5,4 +5,7 @@ Eğitimler sırasında çözdüğüm sql dilindeki challangeları burada paylaş
 
 1-[PatikaDev SQL Ödev1](https://app.patika.dev/courses/sql/Odev1)
 
-1-[PatikaDev SQL Ödev2](https://app.patika.dev/courses/sql/Odev2)
+2-[PatikaDev SQL Ödev2](https://app.patika.dev/courses/sql/Odev2)
+
+3-[PatikaDev SQL Ödev3](https://app.patika.dev/courses/sql/Odev3)
+
