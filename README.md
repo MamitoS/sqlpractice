@@ -18,3 +18,5 @@ Eğitimler sırasında çözdüğüm sql dilindeki challangeları burada paylaş
 7-[PatikaDev SQL Ödev7](https://app.patika.dev/courses/sql/Odev7)
 
 8-[PatikaDev SQL Ödev8](https://app.patika.dev/courses/sql/Odev8)
+
+9-[PatikaDev SQL Ödev9](https://app.patika.dev/courses/sql/Odev9)
